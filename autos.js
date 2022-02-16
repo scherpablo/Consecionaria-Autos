@@ -14,7 +14,7 @@ let autos = [
     },
 
     {
-        marca: 'Toyota',
+        marca: 'Toyota',    
         modelo: 'Corolla',
         precio: 100000,
         km: 0,
