@@ -25,6 +25,6 @@ let autos = [
         vendido: true
     }
 ]
-console.log(autos);
+// console.log(autos);
 
 module.exports = autos;
