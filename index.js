@@ -23,7 +23,7 @@ const concesionaria = {
     },
     autosParaLaVenta: () => {
         temp = autos.filter((auto) => auto.vendido != true);
-        return temp;
+        // return temp;
     },
 }
 
