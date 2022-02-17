@@ -1,6 +1,6 @@
 const autos = require("./autos");
 
-let concesionaria = {
+const concesionaria = {
     autos: autos,
 
     buscarAuto: function (patente) {
@@ -26,6 +26,8 @@ let concesionaria = {
         return temp;
     },
 }
+
+buscarAuto('APL123');
 
 
 
