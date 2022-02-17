@@ -27,7 +27,7 @@ const concesionaria = {
     },
 }
 
-buscarAuto('APL123');
+console.log(autos);
 
 
 
