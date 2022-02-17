@@ -27,7 +27,7 @@ const concesionaria = {
     },
 }
 
-console.log(autos);
+// console.log(autos);
 
 
 
