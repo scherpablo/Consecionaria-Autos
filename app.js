@@ -8,5 +8,5 @@ switch (argumento) {
         acciones.forEach(accion => {
             console.log("- marca: " + accion.marca);
         });
-    // break;
+        break;
 }
