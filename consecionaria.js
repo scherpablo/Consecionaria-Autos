@@ -74,7 +74,9 @@ let concesionaria = {
     }
 }
 
-// console.log(concesionaria.venderAuto("'JJK116'"));
+console.log(concesionaria.totalDeVentas());
+
+
 
 
 

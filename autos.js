@@ -8,7 +8,7 @@ let autos = [
         color: 'Azul',
         cuotas: 12,
         anio: 2019,
-        patente: 'APL123',
+        patente: 'AAA000',
         vendido: false
 
     },
@@ -21,7 +21,7 @@ let autos = [
         color: 'Blanco',
         cuotas: 14,
         anio: 2019,
-        patente: 'JJK116',
+        patente: 'BBB111',
         vendido: true
     },
 
@@ -33,7 +33,7 @@ let autos = [
         color: 'Rojo',
         cuotas: 24,
         anio: 2021,
-        patente: 'VPY523',
+        patente: 'CCC222',
         vendido: true
     },
 
@@ -45,8 +45,8 @@ let autos = [
         color: 'Gris',
         cuotas: 18,
         anio: 2022,
-        patente: 'XPL235',
-        vendido: true
+        patente: 'DDD333',
+        vendido: false
     }
 ]
 // console.log(autos);
