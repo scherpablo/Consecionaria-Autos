@@ -74,7 +74,7 @@ let concesionaria = {
     }
 }
 
-console.log(concesionaria.totalDeVentas());
+// console.log(concesionaria.totalDeVentas());
 
 
 
