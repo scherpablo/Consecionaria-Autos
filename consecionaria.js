@@ -29,7 +29,7 @@ let concesionaria = {
     },
     autosParaLaVenta: function () {
         let autosFiltrados = this.autos.filter(function (auto) {
-            return auto.vendido;
+            return auto.vendido; //!= true - para retornar los que no estan para la venta
         })
         return autosFiltrados;
     },
@@ -74,8 +74,11 @@ let concesionaria = {
     }
 }
 
-// console.log(concesionaria.totalDeVentas());
+// console.log(concesionaria.buscarAuto("AAA000"));
 
+// console.log(concesionaria.venderAuto("AAA000"));
+
+console.log(concesionaria.autosParaLaVenta("AAA000"));
 
 
 
