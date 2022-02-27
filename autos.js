@@ -18,7 +18,7 @@ let autos = [
         modelo: 'Corolla',
         precio: 100000,
         km: 0,
-        color: 'Blanco',
+        color: 'Beige',
         cuotas: 14,
         anio: 2019,
         patente: 'BBB111',
